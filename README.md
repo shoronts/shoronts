@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Md Sharif Foysal Shoron  
 
 🚀 **Senior Full-Stack Developer | Python, Flutter, JS**  
-I have 8+ years of experience building scalable, secure, and high-performance applications. My expertise spans backend systems, cross-platform mobile apps, and modern frontend frameworks. I’m passionate about clean code, problem-solving, and turning ideas into impactful digital products.  
+I have 15+ years of experience building scalable, secure, and high-performance applications. My expertise spans backend systems, cross-platform mobile apps, and modern frontend frameworks. I’m passionate about clean code, problem-solving, and turning ideas into impactful digital products.  
 
 ---
 
